@@ -35,6 +35,20 @@ nav {
   font-weight: 500;
 }
 
+.desc {
+  width: 300px;
+}
+
+.desc span {
+  color: red;
+}
+
+.copyright {
+  font-weight: 800;
+  margin: 40px 0; 
+  width: 300px;
+}
+
 .logo {
   height: 5.25rem;
 }
